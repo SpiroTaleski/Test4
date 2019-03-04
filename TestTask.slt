@@ -1,0 +1,31 @@
+{
+    "job_class": "PipelineJob",
+    "job_name": "TestTask",
+    "note": "",
+    "parameters": {
+        "enabled": true,
+        "execution_timeout": null,
+        "include_external_urls": true,
+        "job_alias": null,
+        "job_type": "regular",
+        "llfeed_token": "xt69jQz62EHweOMTkD1LRyDsmv7PpJey",
+        "max_failures": 10,
+        "max_in_flight": 200,
+        "notification": {
+            "recipients": null
+        },
+        "pipeline_parameters": {
+            "PName": null,
+            "organization": "/Partners",
+            "project": "/Partners/projects/Spiro_Taleski_SLTraining",
+            "project_name": null,
+            "project_space": "/Partners/projects",
+            "recipients": "spire.taleski@gmail.com"
+        },
+        "pipeline_path": null,
+        "snaplex_path": "DEV Cloud"
+    },
+    "schedule": {},
+    "trigger": {},
+    "trigger_type": "ScheduleTrigger"
+}
